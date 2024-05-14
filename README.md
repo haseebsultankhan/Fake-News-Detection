@@ -21,7 +21,7 @@ To run this project, you need to have the following libraries installed:
 
 You can install these libraries using pip:
 ```bash
-pip install numpy pandas scikit-learn
+pip install numpy pandas scikit-learn jupyter
 ```
 
 ## Usage
